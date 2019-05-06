@@ -1,0 +1,3 @@
+Når jeg prøver å generere programmet får jeg en illegalargumentexception som kommer 
+såvidt jeg kan se fra at programmet bruker tomcat 7. Ettersom WEBRatio ikke tillater deg
+å endre buildpath i det hele tatt vet jeg ikke hvordan jeg kan fikse dette problemet.
