@@ -1,0 +1,5 @@
+Hvordan den genererte koden er i forhold til koden som din gruppe implementerte i prosjektoppgaven.
+For eksempel, hvilke klasser/tabeller er like/forskjellige og hvordan, osv.
+Umplekoden for domenemodellen genererte 1473 linjer med kode, dette er mer enn det vi hadde i vårt prosjekt. 
+Koden fra Umple er mindre spesifikk enn den vi skrev selv og mangler mange små spesifikke komponenter som får 
+systemet til å fungere, men inkluderer mange unødvendige metoder som ikke trengs. 
